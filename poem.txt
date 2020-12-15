@@ -4,6 +4,7 @@ red
 blue
 green
 black
+yellow
 white
 purple
 
