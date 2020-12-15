@@ -1,0 +1,9 @@
+Rainbow colors
+
+red
+blue
+black
+white
+purple
+
+these are the rainbow colors
