@@ -1,5 +1,7 @@
-Rainbow colors
-and the unicorn
+Rainbow colors,
+ the unicorn and
+ the ponies
+
 
 red
 blue
@@ -11,4 +13,4 @@ purple
 Unicorn
 
 these are the rainbow colors
-And the unicorn
+And the unicorn and ponies
