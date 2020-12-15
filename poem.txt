@@ -2,6 +2,7 @@ Rainbow colors
 
 red
 blue
+green
 black
 white
 purple
